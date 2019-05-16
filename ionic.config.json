@@ -1,5 +1,7 @@
 {
   "name": "ionicApod",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
